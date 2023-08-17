@@ -1,1 +1,1 @@
-# Trip-Planner
+# Blog Application
